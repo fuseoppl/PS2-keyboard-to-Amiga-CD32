@@ -5,10 +5,11 @@ PS2 to Amiga keyboard translator tested on:
 - PS2 keyboard, Brand: Perixx, Model No.:PERIBOARD-409, Part No.:TK525P
 - DFRobot Beetle Board compatible with Arduino Leonardo
 
-Left GUI (Windows key) = Left Amiga
-Menu key = Right Amiga
-ctrl + alt + home = reset keyboard
-ctrl + alt + delete = hard reset Amiga
+Keys info:
+- Left GUI (Windows key) = Left Amiga
+- Menu key = Right Amiga
+- ctrl + alt + home = reset keyboard
+- ctrl + alt + delete = hard reset Amiga
 
 To do:
 - add Amiga "soft reset".
